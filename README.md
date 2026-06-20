@@ -3,6 +3,7 @@
 Automated e-mail processing and distribution system developed with VB.NET Windows Forms and SQLite.
 
 
+<img width="1363" height="931" alt="image" src="https://github.com/user-attachments/assets/289d643a-864d-41c0-b1a7-14debad7b216" />
 
 
 ## Overview
